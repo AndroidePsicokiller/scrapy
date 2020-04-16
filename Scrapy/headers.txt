@@ -1,0 +1,6 @@
+A,c,c,e,p,t, ,:, ,*,/,*
+A,c,c,e,p,t,-,E,n,c,o,d,i,n,g, ,:, ,g,z,i,p,",", ,d,e,f,l,a,t,e,",", ,b,r
+A,c,c,e,p,t,-,L,a,n,g,u,a,g,e, ,:, ,e,n,-,U,S,",",e,n,;,q,=,0,.,9,",",p,l,;,q,=,0,.,8,",",d,e,;,q,=,0,.,7
+C,o,n,n,e,c,t,i,o,n, ,:, ,k,e,e,p,-,a,l,i,v,e
+U,s,e,r,-,A,g,e,n,t, ,:, ,M,o,z,i,l,l,a,/,5,.,0, ,(,X,1,1,;, ,L,i,n,u,x, ,x,8,6,_,6,4,), ,A,p,p,l,e,W,e,b,K,i,t,/,5,3,7,.,3,6, ,(,K,H,T,M,L,",", ,l,i,k,e, ,G,e,c,k,o,), ,C,h,r,o,m,e,/,6,5,.,0,.,3,3,2,5,.,1,8,1, ,S,a,f,a,r,i,/,5,3,7,.,3,6
+X,-,R,e,q,u,e,s,t,e,d,-,W,i,t,h, ,:, ,X,M,L,H,t,t,p,R,e,q,u,e,s,t
